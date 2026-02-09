@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am currently a sophmore at Quinnipiac University majoring in Computer Science with a minor in Criminal Justice.
+### I am currently a junior at Quinnipiac University majoring in Computer Science with a minor in Criminal Justice.
 
 <!--
 **isabeleila/isabeleila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
